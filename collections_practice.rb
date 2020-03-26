@@ -78,7 +78,7 @@
 
   def kesha_maker(array)
     array.each { |string|
-      string.insert()
+      string[2] = "$"
     }
   end 
 
