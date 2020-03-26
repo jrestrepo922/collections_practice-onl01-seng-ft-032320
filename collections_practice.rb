@@ -88,6 +88,8 @@
   string = "blake"
   character_swap = string[2] 
   string[character_swap] = "$"
+  
+  string
 
 
 
