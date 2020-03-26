@@ -118,7 +118,6 @@
       if !index == 1
         element<<("s")
       end 
-      binding.pry
     }
   end 
   
