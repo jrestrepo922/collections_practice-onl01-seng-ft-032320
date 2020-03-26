@@ -102,12 +102,13 @@
 
 #question 8
   
+  array = [1, 9, 2, 8, 3, 7, 4, 6, 5]  
   
   def sum_array(array)
-    
+    array.inject { |sum, n| sum + n }
   end 
 
-
+  sum_array(array)
 
 
 
