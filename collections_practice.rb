@@ -117,7 +117,7 @@
   end 
 
   
-  #
+  #expect(add_s(["hand","feet", "knee", "table"])).to eq(["hands","feet", "knees", "tables"])
 
 
 
