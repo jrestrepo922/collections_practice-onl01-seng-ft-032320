@@ -85,7 +85,8 @@
   #expect(kesha_maker(["blake", "ashley", "scott"])).to eq(["bl$ke", "as$ley", "sc$tt"])
 
 
-
+  string = "blake"
+  string[2]
 
 
 
