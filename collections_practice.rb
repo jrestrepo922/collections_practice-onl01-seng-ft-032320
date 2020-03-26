@@ -50,7 +50,7 @@
 
   array = ["blake", "ashley", "scott"]
 
-  def swap_elements(array, index1, index2)
+  def swap_elements(array, index1 = 1, index2 = 2)
     array[index1], array[index2] = array[index2], array[index1]
     array
   end 
