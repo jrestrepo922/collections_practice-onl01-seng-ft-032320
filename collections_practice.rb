@@ -86,7 +86,7 @@
 
 #question 7
 
-  array = ["apple", "orange", "pear", "avis", "arlo", "ascot" ] 
+  #array = ["apple", "orange", "pear", "avis", "arlo", "ascot" ] 
 
 
   def find_a(array)
@@ -101,8 +101,9 @@
   #expect(find_a(["apple", "orange", "pear", "avis", "arlo", "ascot" ])).to eq(["apple", "avis", "arlo", "ascot"])
 
 #question 8
-
-  def sum_array 
+  
+  
+  def sum_array(array)
     
   end 
 
