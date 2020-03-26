@@ -91,11 +91,13 @@
 
   def find_a(array)
     array.select { |string|
-    
+      string.start_with?("a")
     }
   end
 
-
+  find_a(array)
+  
+  
   #expect(find_a(["apple", "orange", "pear", "avis", "arlo", "ascot" ])).to eq(["apple", "avis", "arlo", "ascot"])
 
 
