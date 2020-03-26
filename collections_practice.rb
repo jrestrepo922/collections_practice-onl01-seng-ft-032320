@@ -77,7 +77,7 @@
   array = ["blake", "ashley", "scott"]
 
   def kesha_maker(array)
-    array.each { |string|
+    array.colection { |string|
       string[2] = "$"
     }
   end 
