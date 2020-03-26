@@ -87,6 +87,7 @@
 
   string = "blake"
   string[2]  = "$"
+  string[character_swap] = "$"
   
   string
 
