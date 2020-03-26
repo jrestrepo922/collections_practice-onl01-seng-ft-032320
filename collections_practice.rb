@@ -100,6 +100,11 @@
   
   #expect(find_a(["apple", "orange", "pear", "avis", "arlo", "ascot" ])).to eq(["apple", "avis", "arlo", "ascot"])
 
+#question 8
+
+  def sum_array 
+    
+  end 
 
 
 
