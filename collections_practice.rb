@@ -74,7 +74,7 @@
     
 #question 6
   
-  array = ["blake", "ashley", "scott"]
+  #array = ["blake", "ashley", "scott"]
 
   def kesha_maker(array)
     array.each { |string|
@@ -86,12 +86,15 @@
 
 #question 7
 
-  def find_a
+
+
+
+  def find_a(array)
     
   end
 
 
-
+  #expect(find_a(["apple", "orange", "pear", "avis", "arlo", "ascot" ])).to eq(["apple", "avis", "arlo", "ascot"])
 
 
 
