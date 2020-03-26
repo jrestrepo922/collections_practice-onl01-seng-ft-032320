@@ -72,7 +72,7 @@
   #reverse_array(array) 
     
     
-#question 7
+#question 6
   
   array = ["blake", "ashley", "scott"]
 
