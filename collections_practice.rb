@@ -77,12 +77,12 @@
   array = ["blake", "ashley", "scott"]
 
   def kesha_maker(array)
-    array.each { 
-      
+    array.each { |string|
+      string.insert
     }
   end 
 
-  #
+  #expect(kesha_maker(["blake", "ashley", "scott"])).to eq(["bl$ke", "as$ley", "sc$tt"])
 
 
 
