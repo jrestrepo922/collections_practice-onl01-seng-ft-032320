@@ -73,7 +73,11 @@
     
     
 #question 7
-  def find_a
+
+
+  def kesha_maker
+    
+  end 
 
 
 
