@@ -73,7 +73,8 @@
     
     
 #question 7
-
+  
+  array = ["blake", "ashley", "scott"]
 
   def kesha_maker
     
