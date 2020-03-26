@@ -120,7 +120,8 @@
       end 
     }
   end 
-
+  
+  add_s(array)
   
   #expect(add_s(["hand","feet", "knee", "table"])).to eq(["hands","feet", "knees", "tables"])
 
