@@ -86,7 +86,7 @@
 
 #question 7
 
-
+  #array = 
 
 
   def find_a(array)
