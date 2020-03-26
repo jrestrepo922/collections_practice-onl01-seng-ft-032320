@@ -77,15 +77,19 @@
   array = ["blake", "ashley", "scott"]
 
   def kesha_maker(array)
-    array.collect { |string|
+    array.each { |string|
       string[2] = "$"
     }
   end 
 
   #expect(kesha_maker(["blake", "ashley", "scott"])).to eq(["bl$ke", "as$ley", "sc$tt"])
 
-  kesha_maker(array)
- 
+
+  string = "blake"
+  string[2]  = "$"
+  
+  string
+
 
 
 
