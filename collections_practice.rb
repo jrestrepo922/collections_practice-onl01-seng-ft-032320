@@ -112,9 +112,9 @@
 
 # question 9
 
-  array = 
+  array = ["hand","feet", "knee", "table"]
   def add_s(array)
-    
+    array.
   end 
 
   
