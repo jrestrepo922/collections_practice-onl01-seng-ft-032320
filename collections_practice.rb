@@ -84,7 +84,11 @@
 
 
 
+#question 7
 
+  def find_a
+    
+  end
 
 
 
