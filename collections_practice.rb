@@ -86,11 +86,13 @@
 
 #question 7
 
-  #array = 
+  array = ["apple", "orange", "pear", "avis", "arlo", "ascot" ] 
 
 
   def find_a(array)
+    array.select { |string|
     
+    }
   end
 
 
