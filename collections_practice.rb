@@ -76,8 +76,10 @@
   
   array = ["blake", "ashley", "scott"]
 
-  def kesha_maker
-    
+  def kesha_maker(array)
+    array.each { 
+      
+    }
   end 
 
 
