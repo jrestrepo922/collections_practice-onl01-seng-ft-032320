@@ -118,7 +118,7 @@
       if !index == 1
         element<<("s")
       end 
-      pry.binding
+      binding.pry
     }
   end 
   
